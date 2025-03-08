@@ -3,4 +3,7 @@
 
 ## Features
 ✅ Tracks best deals  
-✅ Works in real-
+✅ Works in real-time  
+✅ Fast & mobile-friendly  
+
+## How to Run Locally
